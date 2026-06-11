@@ -4,10 +4,13 @@
 
 # 🏷️ BoviGest - Sistema de Gestão de Gado de Corte 👨‍💻
 
+
+<div align="center">
+  <img src="https://images.unsplash.com/photo-1570042225831-d98fa7577f1e?auto=format&fit=crop&w=300&q=80" alt="BoviGest Logo" width="200px" style="border-radius: 10px;"/>
+</div>
+
 > [!NOTE]
-> Sistema inteligente para apoio e controle completo do ciclo de engorda na pecuária de corte. **Foque na rastreabilidade individual, controle financeiro e eficiência zootécnica.** > <div align="center">
->   <img src="https://img.shields.io/badge/BoviGest-Engorda_Inteligente-darkgreen?style=for-the-badge&logo=google-earth" alt="BoviGest Logo" width="250px"/>
-> </div>
+> Sistema inteligente para apoio e controle completo do ciclo de engorda na pecuária de corte. **Foque na rastreabilidade individual, controle financeiro e eficiência zootécnica.** ...
 
 <table>
   <tr>
